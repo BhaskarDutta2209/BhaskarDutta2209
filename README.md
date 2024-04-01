@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/bhaskar-dutta-6b23b616a/)
 - 😄 Pronouns: He/Him
 
-![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=BhaskarDutta2209&count_private=true)
+# ![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=BhaskarDutta2209&count_private=true)
